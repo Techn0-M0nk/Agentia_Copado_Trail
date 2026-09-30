@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Hometown__c</fullName>
+    <description>Allows users to add Hometown, character limit is 40</description>
+    <externalId>false</externalId>
+    <label>Hometown</label>
+    <length>40</length>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

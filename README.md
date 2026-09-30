@@ -1,2 +1,2 @@
 # Agentia_Copado_Trail
-This is practice trail created for Copado Agentia Certification
+This is practice repository created for Copado Agentia Certification Trail
